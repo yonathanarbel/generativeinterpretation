@@ -1,0 +1,161 @@
+Term,Normalized Similarity,Raw Similarity,Rank,Model
+flood,1.0,0.7854228728098126,1,sionic-v1
+dam failure,0.9085221289842168,0.7775827205444503,2,sionic-v1
+improper drainage,0.8323202528816092,0.7710518043248584,3,sionic-v1
+heavy rainfall,0.8000871290075784,0.7682892498802203,4,sionic-v1
+construction near a water body,0.7675767448304459,0.7655029327160379,5,sionic-v1
+tsunami,0.7511934216473032,0.764098792600596,6,sionic-v1
+severe storm,0.7114233135952308,0.7606902775217486,7,sionic-v1
+irrigation canals overflow,0.6747043031414284,0.7575432581410552,8,sionic-v1
+fire,0.6373460033993493,0.7543414481830774,9,sionic-v1
+broken water main,0.6195528073731613,0.7528164742786378,10,sionic-v1
+monsoon rains,0.592191082398432,0.7504714252775758,11,sionic-v1
+broken levee,0.565074449898606,0.7481473820378088,12,sionic-v1
+wind,0.5563479200755529,0.7473994708566538,13,sionic-v1
+burst pipe,0.5018101874481765,0.7427252898415264,14,sionic-v1
+police,0.19577707988789952,0.7164965840914703,15,sionic-v1
+tears of joy,0.0,0.6997174210070529,16,sionic-v1
+dam failure,1.0,0.7409915,1,sentence-transformers/sentence-t5-xxl
+flood,0.8917806,0.724329,2,sentence-transformers/sentence-t5-xxl
+improper drainage,0.86128604,0.71963376,3,sentence-transformers/sentence-t5-xxl
+broken water main,0.8514791,0.7181238,4,sentence-transformers/sentence-t5-xxl
+burst pipe,0.850756,0.71801245,5,sentence-transformers/sentence-t5-xxl
+tsunami,0.79906815,0.7100541,6,sentence-transformers/sentence-t5-xxl
+heavy rainfall,0.75558335,0.70335877,7,sentence-transformers/sentence-t5-xxl
+construction near a water body,0.7386306,0.70074856,8,sentence-transformers/sentence-t5-xxl
+irrigation canals overflow,0.73115647,0.6995978,9,sentence-transformers/sentence-t5-xxl
+broken levee,0.7200953,0.6978947,10,sentence-transformers/sentence-t5-xxl
+wind,0.7022576,0.6951482,11,sentence-transformers/sentence-t5-xxl
+severe storm,0.5872241,0.6774366,12,sentence-transformers/sentence-t5-xxl
+monsoon rains,0.5418649,0.67045265,13,sentence-transformers/sentence-t5-xxl
+fire,0.3579721,0.6421388,14,sentence-transformers/sentence-t5-xxl
+police,0.26234302,0.6274148,15,sentence-transformers/sentence-t5-xxl
+tears of joy,0.0,0.587022,16,sentence-transformers/sentence-t5-xxl
+flood,1.0,0.8321763,1,thenlper/gte-large
+dam failure,0.8441786,0.8152107,2,thenlper/gte-large
+heavy rainfall,0.8136664,0.8118886,3,thenlper/gte-large
+construction near a water body,0.74277174,0.80416965,4,thenlper/gte-large
+tsunami,0.72496235,0.8022306,5,thenlper/gte-large
+improper drainage,0.71311903,0.8009411,6,thenlper/gte-large
+fire,0.6810926,0.7974541,7,thenlper/gte-large
+broken water main,0.67301023,0.7965741,8,thenlper/gte-large
+irrigation canals overflow,0.61641085,0.79041165,9,thenlper/gte-large
+severe storm,0.5987729,0.78849125,10,thenlper/gte-large
+monsoon rains,0.5846987,0.7869589,11,thenlper/gte-large
+broken levee,0.48529437,0.77613586,12,thenlper/gte-large
+wind,0.44896674,0.77218056,13,thenlper/gte-large
+burst pipe,0.43182856,0.7703146,14,thenlper/gte-large
+police,0.26443917,0.75208944,15,thenlper/gte-large
+tears of joy,0.0,0.72329766,16,thenlper/gte-large
+flood,1.0,0.82275957,1,thenlper/gte-base
+improper drainage,0.8090666,0.8030214,2,thenlper/gte-base
+construction near a water body,0.790181,0.801069,3,thenlper/gte-base
+irrigation canals overflow,0.7894637,0.8009949,4,thenlper/gte-base
+dam failure,0.7139966,0.7931933,5,thenlper/gte-base
+heavy rainfall,0.71269184,0.7930584,6,thenlper/gte-base
+severe storm,0.69364357,0.79108924,7,thenlper/gte-base
+broken levee,0.6525973,0.786846,8,thenlper/gte-base
+tsunami,0.64985454,0.78656244,9,thenlper/gte-base
+broken water main,0.6189145,0.78336394,10,thenlper/gte-base
+monsoon rains,0.5110838,0.7722167,11,thenlper/gte-base
+fire,0.5098856,0.7720928,12,thenlper/gte-base
+burst pipe,0.5042652,0.7715118,13,thenlper/gte-base
+wind,0.41953602,0.7627527,14,thenlper/gte-base
+police,0.16205053,0.7361345,15,thenlper/gte-base
+tears of joy,0.0,0.71938217,16,thenlper/gte-base
+flood,1.0,0.8490426,1,thenlper/gte-small
+improper drainage,0.9604524,0.84464103,2,thenlper/gte-small
+dam failure,0.9168041,0.8397831,3,thenlper/gte-small
+severe storm,0.6683372,0.81212926,4,thenlper/gte-small
+tsunami,0.6508432,0.8101822,5,thenlper/gte-small
+irrigation canals overflow,0.6449142,0.80952233,6,thenlper/gte-small
+construction near a water body,0.6065592,0.8052535,7,thenlper/gte-small
+heavy rainfall,0.55114883,0.79908645,8,thenlper/gte-small
+monsoon rains,0.5344078,0.7972232,9,thenlper/gte-small
+fire,0.46358556,0.78934085,10,thenlper/gte-small
+broken water main,0.4497343,0.78779924,11,thenlper/gte-small
+burst pipe,0.44921696,0.78774166,12,thenlper/gte-small
+broken levee,0.3669063,0.77858067,13,thenlper/gte-small
+wind,0.319981,0.773358,14,thenlper/gte-small
+police,0.27451777,0.76829803,15,thenlper/gte-small
+tears of joy,0.0,0.7377448,16,thenlper/gte-small
+construction near a water body,1.0,0.8323779,1,hkunlp/instructor-large
+improper drainage,0.8819273,0.81951976,2,hkunlp/instructor-large
+broken water main,0.82555264,0.81338054,3,hkunlp/instructor-large
+heavy rainfall,0.8243031,0.81324446,4,hkunlp/instructor-large
+flood,0.7087952,0.8006656,5,hkunlp/instructor-large
+dam failure,0.6935104,0.7990011,6,hkunlp/instructor-large
+severe storm,0.6619485,0.795564,7,hkunlp/instructor-large
+burst pipe,0.6324927,0.79235625,8,hkunlp/instructor-large
+irrigation canals overflow,0.59605736,0.78838843,9,hkunlp/instructor-large
+broken levee,0.5609816,0.78456867,10,hkunlp/instructor-large
+wind,0.51868045,0.77996206,11,hkunlp/instructor-large
+tsunami,0.51211464,0.77924705,12,hkunlp/instructor-large
+monsoon rains,0.5058926,0.77856946,13,hkunlp/instructor-large
+fire,0.049038775,0.72881794,14,hkunlp/instructor-large
+tears of joy,0.035475336,0.7273409,15,hkunlp/instructor-large
+police,0.0,0.7234776,16,hkunlp/instructor-large
+broken water main,1.0,0.67627364,1,hkunlp/instructor-xl
+construction near a water body,0.90449625,0.65402853,2,hkunlp/instructor-xl
+flood,0.88683605,0.64991504,3,hkunlp/instructor-xl
+broken levee,0.87970465,0.648254,4,hkunlp/instructor-xl
+improper drainage,0.865236,0.6448839,5,hkunlp/instructor-xl
+burst pipe,0.844561,0.6400682,6,hkunlp/instructor-xl
+heavy rainfall,0.78171337,0.62542945,7,hkunlp/instructor-xl
+irrigation canals overflow,0.6978898,0.60590494,8,hkunlp/instructor-xl
+severe storm,0.6931741,0.60480654,9,hkunlp/instructor-xl
+dam failure,0.67291963,0.6000888,10,hkunlp/instructor-xl
+tsunami,0.59563017,0.5820862,11,hkunlp/instructor-xl
+monsoon rains,0.46807602,0.5523758,12,hkunlp/instructor-xl
+fire,0.3478677,0.5243764,13,hkunlp/instructor-xl
+wind,0.3019766,0.51368725,14,hkunlp/instructor-xl
+tears of joy,0.011141517,0.4459448,15,hkunlp/instructor-xl
+police,0.0,0.44334966,16,hkunlp/instructor-xl
+broken water main,1.0,0.8424855,1,hkunlp/instructor-base
+construction near a water body,0.96240175,0.83950025,2,hkunlp/instructor-base
+flood,0.8804872,0.83299637,3,hkunlp/instructor-base
+improper drainage,0.8755348,0.83260316,4,hkunlp/instructor-base
+heavy rainfall,0.86884373,0.8320719,5,hkunlp/instructor-base
+broken levee,0.85765076,0.8311832,6,hkunlp/instructor-base
+dam failure,0.8009163,0.8266786,7,hkunlp/instructor-base
+severe storm,0.78531444,0.8254398,8,hkunlp/instructor-base
+monsoon rains,0.7539485,0.8229494,9,hkunlp/instructor-base
+burst pipe,0.71016073,0.81947273,10,hkunlp/instructor-base
+wind,0.6682294,0.81614345,11,hkunlp/instructor-base
+irrigation canals overflow,0.62572527,0.8127687,12,hkunlp/instructor-base
+tsunami,0.62291616,0.81254566,13,hkunlp/instructor-base
+fire,0.10225038,0.77120566,14,hkunlp/instructor-base
+tears of joy,0.06362216,0.76813865,15,hkunlp/instructor-base
+police,0.0,0.76308715,16,hkunlp/instructor-base
+flood,1.0,0.78722763,1,BAAI/bge-large-en
+dam failure,0.9832351,0.7859633,2,BAAI/bge-large-en
+heavy rainfall,0.84532636,0.7755628,3,BAAI/bge-large-en
+tsunami,0.75559646,0.7687958,4,BAAI/bge-large-en
+wind,0.72015166,0.7661227,5,BAAI/bge-large-en
+monsoon rains,0.7035899,0.7648737,6,BAAI/bge-large-en
+fire,0.6878122,0.7636838,7,BAAI/bge-large-en
+construction near a water body,0.6798028,0.76307976,8,BAAI/bge-large-en
+improper drainage,0.66585153,0.7620276,9,BAAI/bge-large-en
+severe storm,0.66317385,0.7618257,10,BAAI/bge-large-en
+broken water main,0.5381991,0.75240064,11,BAAI/bge-large-en
+irrigation canals overflow,0.49654934,0.7492596,12,BAAI/bge-large-en
+burst pipe,0.41827318,0.74335635,13,BAAI/bge-large-en
+broken levee,0.40843728,0.74261457,14,BAAI/bge-large-en
+police,0.29441604,0.7340156,15,BAAI/bge-large-en
+tears of joy,0.0,0.711812,16,BAAI/bge-large-en
+flood,1.0,0.60950464,1,BAAI/bge-base-en-v1.5
+improper drainage,0.8642055,0.57334375,2,BAAI/bge-base-en-v1.5
+irrigation canals overflow,0.77786654,0.55035245,3,BAAI/bge-base-en-v1.5
+construction near a water body,0.77764314,0.55029297,4,BAAI/bge-base-en-v1.5
+dam failure,0.73846215,0.5398594,5,BAAI/bge-base-en-v1.5
+heavy rainfall,0.72936875,0.5374379,6,BAAI/bge-base-en-v1.5
+severe storm,0.71396816,0.5333369,7,BAAI/bge-base-en-v1.5
+broken water main,0.68710446,0.5261833,8,BAAI/bge-base-en-v1.5
+tsunami,0.68504745,0.52563554,9,BAAI/bge-base-en-v1.5
+broken levee,0.621348,0.50867295,10,BAAI/bge-base-en-v1.5
+wind,0.58534724,0.49908626,11,BAAI/bge-base-en-v1.5
+monsoon rains,0.55742323,0.49165034,12,BAAI/bge-base-en-v1.5
+burst pipe,0.551369,0.49003816,13,BAAI/bge-base-en-v1.5
+fire,0.48629865,0.4727105,14,BAAI/bge-base-en-v1.5
+police,0.14462516,0.38172585,15,BAAI/bge-base-en-v1.5
+tears of joy,0.0,0.34321344,16,BAAI/bge-base-en-v1.5
